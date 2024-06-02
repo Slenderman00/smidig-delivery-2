@@ -1,9 +1,9 @@
-[0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is 'Report.blg'
-[104] biber-MSWIN64:340> INFO - === 
-[141] Biber.pm:420> INFO - Reading 'Report.bcf'
-[242] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[256] bbl.pm:676> INFO - Writing 'Report.bbl' with encoding 'UTF-8'
-[256] bbl.pm:779> INFO - Output to Report.bbl
-[256] Biber.pm:131> WARN - The file 'Report.bcf' does not contain any citations!
-[257] Biber.pm:133> INFO - WARNINGS: 1
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Report.blg'
+[58] biber:340> INFO - === Sun Jun  2, 2024, 13:57:41
+[64] Biber.pm:419> INFO - Reading 'Report.bcf'
+[89] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[96] bbl.pm:660> INFO - Writing 'Report.bbl' with encoding 'UTF-8'
+[96] bbl.pm:763> INFO - Output to Report.bbl
+[96] Biber.pm:131> WARN - The file 'Report.bcf' does not contain any citations!
+[96] Biber.pm:133> INFO - WARNINGS: 1
