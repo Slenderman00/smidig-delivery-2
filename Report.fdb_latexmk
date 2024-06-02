@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Report"] 1717329461.38495 "Report.bcf" "Report.bbl" "Report" 1717329480.88453 0
-  "Report.bcf" 1717329480.85718 107698 0288a4bb82b440ad365c44260e4c6a88 "pdflatex"
+["biber Report"] 1717329461.38495 "Report.bcf" "Report.bbl" "Report" 1717329602.68564 0
+  "Report.bcf" 1717329602.66134 107698 0288a4bb82b440ad365c44260e4c6a88 "pdflatex"
   (generated)
   "Report.bbl"
   "Report.blg"
   (rewritten before read)
-["pdflatex"] 1717329480.41047 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1717329480.8847 0
-  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1717329479.81381 3428 752e05dcd9aea34c6d0d8102b324c73b ""
+["pdflatex"] 1717329602.28665 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1717329602.68581 0
+  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1717329601.66464 3397 87058314539cfb213ec7127c1fdbcf0f ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1716849630 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -77,11 +77,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716888649.38015 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716888614 7112993 932e0732900f584fecfea1f12e19b289 ""
-  "Report.aux" 1717329480.85718 3145 5b933696ff7d97f5cf84ae6f1cfd417d "pdflatex"
+  "Report.aux" 1717329602.65801 3032 e4178f6d9f9a67077bb0aa993e35ee07 "pdflatex"
   "Report.bbl" 1717329461.86321 466 ee04f40f768daeed26442158e95aba61 "biber Report"
-  "Report.run.xml" 1717329480.85718 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
-  "Report.tex" 1717329479.81381 3428 752e05dcd9aea34c6d0d8102b324c73b ""
-  "Report.toc" 1717329480.85718 1856 8b917731ab1643b4ce4d77d1f22f428b "pdflatex"
+  "Report.run.xml" 1717329602.66134 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
+  "Report.tex" 1717329601.66464 3397 87058314539cfb213ec7127c1fdbcf0f ""
+  "Report.toc" 1717329602.66134 1784 1efb3991993e71981ea9dc1c59f65789 "pdflatex"
   (generated)
   "Report.aux"
   "Report.bcf"

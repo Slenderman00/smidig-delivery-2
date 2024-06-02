@@ -23,6 +23,5 @@
 \contentsline {section}{\numberline {6}Reflection}{4}{}%
 \contentsline {subsection}{\numberline {6.1}Could you have done anything differently?}{5}{}%
 \contentsline {subsection}{\numberline {6.2}What were you particularly satisfied with?}{5}{}%
-\contentsline {subsection}{\numberline {6.3}Discussion}{5}{}%
-\contentsline {subsection}{\numberline {6.4}Notes}{5}{}%
-\contentsline {subsection}{\numberline {6.5}Conclusion}{5}{}%
+\contentsline {section}{\numberline {7}Notes}{5}{}%
+\contentsline {section}{\numberline {8}Conclusion}{5}{}%
