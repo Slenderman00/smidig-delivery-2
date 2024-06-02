@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,101 +16,5 @@
   {}
 \endgroup
 
-
-\refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{DesignSprint2024}{article}{}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A design sprint is a time-constrained, five-phase process that uses design thinking with the aim of reducing the risk when bringing a new product, service or a feature to the market. The process aims to help teams to clearly define goals, validate assumptions and decide on a product roadmap before starting development. It seeks to address strategic issues using interdisciplinary expertise, rapid prototyping, and usability testing. This design process is similar to Sprints in an Agile development cycle.}
-      \field{annotation}{Page Version ID: 1216839169}
-      \field{journaltitle}{Wikipedia}
-      \field{langid}{english}
-      \field{month}{4}
-      \field{title}{Design Sprint}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/joar/Zotero/storage/RM6KLG4S/Design_sprint.html
-      \endverb
-    \endentry
-    \entry{FigmaCollaborativeInterface}{misc}{}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.}
-      \field{howpublished}{https://www.figma.com/}
-      \field{journaltitle}{Figma}
-      \field{langid}{american}
-      \field{shorttitle}{Figma}
-      \field{title}{Figma: {{The Collaborative Interface Design Tool}}}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/joar/Zotero/storage/TYGSTSL3/www.figma.com.html
-      \endverb
-    \endentry
-    \entry{PenpotDesignTool}{misc}{}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Penpot is the open-source free design software that connects designers and developers with no handoff drama. Prototyping, UI design and code - all in one app.}
-      \field{howpublished}{https://penpot.app/}
-      \field{langid}{english}
-      \field{shorttitle}{Penpot}
-      \field{title}{Penpot: {{The Design Tool}} for {{Design}} \& {{Code Collaboration}}}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/joar/Zotero/storage/N3BLSWN7/penpot.app.html
-      \endverb
-    \endentry
-    \entry{Storyboard2024}{article}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A storyboard is a graphic organizer that consists of illustrations or images displayed in sequence for the purpose of pre-visualizing a motion picture, animation, motion graphic or interactive media sequence. The storyboarding process, in the form it is known today, was developed at Walt Disney Productions during the early 1930s, after several years of similar processes being in use at Walt Disney and other animation studios.}
-      \field{annotation}{Page Version ID: 1219212150}
-      \field{journaltitle}{Wikipedia}
-      \field{langid}{english}
-      \field{month}{4}
-      \field{title}{Storyboard}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/joar/Zotero/storage/UKZRF3CV/Storyboard.html
-      \endverb
-    \endentry
-    \entry{WhatHowMight}{misc}{}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{How Might We is a design thinking method where designers create questions that open up ideation sessions to generate a broad number of solutions.}
-      \field{howpublished}{https://www.interaction-design.org/literature/topics/how-might-we}
-      \field{journaltitle}{The Interaction Design Foundation}
-      \field{langid}{english}
-      \field{shorttitle}{What Is {{How Might We}} ({{HMW}})?}
-      \field{title}{What Is {{How Might We}} ({{HMW}})? --- Updated 2024}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/joar/Zotero/storage/X88DF8UK/how-might-we.html
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
 \endinput
 
