@@ -16,47 +16,5 @@
   {}
 \endgroup
 
-
-\refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{DesignSprint2024}{article}{}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A design sprint is a time-constrained, five-phase process that uses design thinking with the aim of reducing the risk when bringing a new product, service or a feature to the market. The process aims to help teams to clearly define goals, validate assumptions and decide on a product roadmap before starting development. It seeks to address strategic issues using interdisciplinary expertise, rapid prototyping, and usability testing. This design process is similar to Sprints in an Agile development cycle.}
-      \field{annotation}{Page Version ID: 1216839169}
-      \field{journaltitle}{Wikipedia}
-      \field{langid}{english}
-      \field{month}{4}
-      \field{title}{Design Sprint}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/joar/Zotero/storage/RM6KLG4S/Design_sprint.html
-      \endverb
-    \endentry
-    \entry{WhatHowMight}{misc}{}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{How Might We is a design thinking method where designers create questions that open up ideation sessions to generate a broad number of solutions.}
-      \field{howpublished}{https://www.interaction-design.org/literature/topics/how-might-we}
-      \field{journaltitle}{The Interaction Design Foundation}
-      \field{langid}{english}
-      \field{shorttitle}{What Is {{How Might We}} ({{HMW}})?}
-      \field{title}{What Is {{How Might We}} ({{HMW}})? --- Updated 2024}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/joar/Zotero/storage/X88DF8UK/how-might-we.html
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
 \endinput
 
