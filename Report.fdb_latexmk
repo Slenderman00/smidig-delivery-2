@@ -1,17 +1,17 @@
 # Fdb version 4
-<<<<<<< HEAD
+<<<<<<<<< Temporary merge branch 1
 ["biber Report"] 1717332182.17113 "Report.bcf" "Report.bbl" "Report" 1717332183.04791 0
   "Library.bib" 1717332176.30597 11568 d6889d07c6c5872a6c754b1fcf0061d7 ""
   "Report.bcf" 1717332183.01955 108490 00d15c391d3f4efc7904f8e5daf65b3f "pdflatex"
-=======
+=========
 ["biber Report"] 1717329960.33539 "Report.bcf" "Report.bbl" "Report" 1717332138.57614 0
   "Report.bcf" 1717332138 108487 9d539935cf4ea5b61240d482922e95f8 "pdflatex"
->>>>>>> 21ebcc7372c54cea88feb447daba04536872c4c8
+>>>>>>>>> Temporary merge branch 2
   (generated)
   "Report.bbl"
   "Report.blg"
   (rewritten before read)
-<<<<<<< HEAD
+<<<<<<<<< Temporary merge branch 1
 ["pdflatex"] 1717332182.5446 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1717332183.04809 0
   "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1717332181.32282 5524 5b316654b98b8d9e25f25c5532f54707 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -91,7 +91,7 @@
   "Report.run.xml" 1717332183.01955 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
   "Report.tex" 1717332181.32282 5524 5b316654b98b8d9e25f25c5532f54707 ""
   "Report.toc" 1717332183.01955 2168 e688b6f8a6f18abc256e65e25ba8375e "pdflatex"
-=======
+=========
 ["pdflatex"] 1717332135.92173 "c:/Users/Isesk/Documents/gitHub/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1717332138.57759 0
   "Report.aux" 1717332138 3039 e52f1ead0b4265d446c7ca4cf46530fc "pdflatex"
   "Report.bbl" 1717329962 486 76d65a242ec496c9b4361af646ff12cb "biber Report"
@@ -113,10 +113,12 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1716974657 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1716974657 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1716974657 1120 8b7d695260f3cff42e636090a8002094 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1716974657 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1716974657 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1716974142 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1716974142 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1716974142 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1716974142 36118 fad905eba93cff5bce1e185fe980a177 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1716974142 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1716974667 136101 b18d10b3436f8cb0cd04046deb340fe7 ""
   "c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1716976291 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -170,7 +172,7 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716977933 5529302 90924f286bd62ce7380ad2a7c245cc29 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716978210 8225743 1938d36c00c8d08ca845a1652dd6ae36 ""
   "c:/texlive/2024/texmf.cnf" 1716977909 713 e69b156964470283e0530f5060668171 ""
->>>>>>> 21ebcc7372c54cea88feb447daba04536872c4c8
+>>>>>>>>> Temporary merge branch 2
   (generated)
   "Report.aux"
   "Report.bcf"
