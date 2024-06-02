@@ -2361,6 +2361,17 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">Library.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="9" intorder="1">AgileSoftwareDevelopment2024</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">ManifestoAgileSoftware</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Scrum2023</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">scrumwiseScrumToolsScrum</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Timeboxing2024</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">ParkinsonLaw2024</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Backlog2022</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">React</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">ECMA262</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">ComponentbasedSoftwareEngineering2024</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Vite</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

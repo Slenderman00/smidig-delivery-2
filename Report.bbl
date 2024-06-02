@@ -16,5 +16,216 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{AgileSoftwareDevelopment2024}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Agile software development is the mindset for developing software that derives from values agreed upon by The Agile Alliance, a group of 17 software practitioners in 2001. As documented in their Manifesto for Agile Software Development the practitioners value: Individuals and interactions over processes and tools Working software over comprehensive documentation Customer collaboration over contract negotiation Responding to change over following a plan The practitioners cite inspiration from new practices at the time including extreme programming, scrum, dynamic systems development method, adaptive software development and being sympathetic to the need for an alternative to documentation driven, heavyweight software development processes. Many software development practices emerged from the agile mindset. These agile-based practices, sometimes called Agile (with a capital A) include requirements, discovery and solutions improvement through the collaborative effort of self-organizing and cross-functional teams with their customer(s)/end user(s). While there is much anecdotal evidence that the agile mindset and agile-based practices improve the software development process, the empirical evidence is limited and less than conclusive.}
+      \field{annotation}{Page Version ID: 1222507673}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{Agile Software Development}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/877IV4HP/Agile_software_development.html
+      \endverb
+    \endentry
+    \entry{Backlog2022}{article}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Backlog may refer to:}
+      \field{annotation}{Page Version ID: 1115858432}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{Backlog}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/W29F6VQE/Backlog.html
+      \endverb
+    \endentry
+    \entry{ComponentbasedSoftwareEngineering2024}{article}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Component-based software engineering (CBSE), also called component-based development (CBD), is a style of software engineering that aims to construct a software system from components that are loosely-coupled and reusable. This emphasizes the separation of concerns among components. To find the right level of component granularity, software architects have to continuously iterate their component designs with developers. Architects need to take into account user requirements, responsibilities and architectural characteristics.}
+      \field{annotation}{Page Version ID: 1226023661}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{Component-Based Software Engineering}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/ABCQ8P7M/Component-based_software_engineering.html
+      \endverb
+    \endentry
+    \entry{ECMA262}{misc}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ECMAScript{®} 2023 language specification, 14th edition - ECMAScript is a programming language based on several technologies like JavaScript.}
+      \field{journaltitle}{Ecma International}
+      \field{langid}{american}
+      \field{title}{{{ECMA-262}}}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/JBNJSLQD/ecma-262.html
+      \endverb
+    \endentry
+    \entry{ManifestoAgileSoftware}{misc}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://agilemanifesto.org/}
+      \field{title}{Manifesto for {{Agile Software Development}}}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/Z78NIIEU/agilemanifesto.org.html
+      \endverb
+    \endentry
+    \entry{ParkinsonLaw2024}{article}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Parkinson's law can refer to either of two observations, published in 1955 by the naval historian C. Northcote Parkinson as an essay in The Economist: "work expands so as to fill the time available for its completion", the number of workers within public administration, bureaucracy or officialdom tends to grow, regardless of the amount of work to be done. This was attributed mainly to two factors: that officials want subordinates, not rivals, and that officials make work for each other. The first paragraph of the essay mentioned the first meaning above as a "commonplace observation", and the rest of the essay was devoted to the latter observation, terming it "Parkinson's Law".}
+      \field{annotation}{Page Version ID: 1221036066}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Parkinson's Law}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/L7E4XP4E/Parkinson's_law.html
+      \endverb
+    \endentry
+    \entry{React}{misc}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{abstract}{React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.}
+      \field{howpublished}{https://react.dev/}
+      \field{langid}{english}
+      \field{title}{React}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/8QS8WBA9/react.dev.html
+      \endverb
+    \endentry
+    \entry{Scrum2023}{article}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Innen prosjektledelse er scrum et rammeverk for {å} utvikle, levere og opprettholde produkter i et komplekst milj{ø}. Scrum har sin bakgrunn fra programvareutvikling, men har ogs{å} blitt brukt i andre felt inkludert forskning, salg, markedsf{ø}ring og h{ø}yteknologi. Metodikken er designet for team med 3 til 10 medlemmer, og bryter ned arbeidet i m{å}l (sprintk{ø}er) som skal fullf{ø}res innen tidsbokser kalt sprinter. Sprintene har som regel varighet ikke lengre enn en m{å}ned og oftest to uker. Scrumteamet vurderer fremgangen i daglige m{ø}ter p{å} 15 minutter eller mindre kalt daglige scrums (en form for st{å}m{ø}te). P{å} slutten av sprinten har teamet har ytterligere to m{ø}ter, henholdsvis sprintgjennomgang hvor man viser utf{ø}rt arbeid for interessenten for {å} f{å} tilbakemeldinger, og sprintevaluering hvor teamet kan reflektere og forbedre seg.}
+      \field{annotation}{Page Version ID: 24092351}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{norwegianbokmal}
+      \field{month}{12}
+      \field{title}{{Scrum}}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/BHYMSMZN/Scrum.html
+      \endverb
+    \endentry
+    \entry{scrumwiseScrumToolsScrum}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e0bdb8132254522c24dfaa7c3715f57e}{%
+           family={Scrumwise},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{fullhash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{bibnamehash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{authorbibnamehash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{authornamehash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{authorfullhash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The easiest Scrum tool you'll find. Scrumwise lets you focus on your Scrum project, instead of getting lost in a complex tool.}
+      \field{howpublished}{https://www.scrumwise.com}
+      \field{journaltitle}{Scrumwise}
+      \field{langid}{english}
+      \field{title}{Scrum {{Tools}} / {{Scrum Software}}}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/JLXH7EMX/www.scrumwise.com.html
+      \endverb
+    \endentry
+    \entry{Timeboxing2024}{article}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In agile principles, timeboxing allocates a maximum unit of time to an activity, called a timebox, within which a planned activity takes place. It is used by agile principles-based project management approaches and for personal time management.}
+      \field{annotation}{Page Version ID: 1216839149}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Timeboxing}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/DC2RTGGA/Timeboxing.html
+      \endverb
+    \endentry
+    \entry{Vite}{misc}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Next Generation Frontend Tooling}
+      \field{howpublished}{https://vitejs.dev}
+      \field{journaltitle}{vitejs}
+      \field{langid}{american}
+      \field{title}{Vite}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/MTHGGEG9/vitejs.dev.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

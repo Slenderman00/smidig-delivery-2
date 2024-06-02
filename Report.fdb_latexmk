@@ -1,12 +1,13 @@
 # Fdb version 4
-["biber Report"] 1717329461.38495 "Report.bcf" "Report.bbl" "Report" 1717329602.68564 0
-  "Report.bcf" 1717329602.66134 107698 0288a4bb82b440ad365c44260e4c6a88 "pdflatex"
+["biber Report"] 1717332182.17113 "Report.bcf" "Report.bbl" "Report" 1717332183.04791 0
+  "Library.bib" 1717332176.30597 11568 d6889d07c6c5872a6c754b1fcf0061d7 ""
+  "Report.bcf" 1717332183.01955 108490 00d15c391d3f4efc7904f8e5daf65b3f "pdflatex"
   (generated)
   "Report.bbl"
   "Report.blg"
   (rewritten before read)
-["pdflatex"] 1717329602.28665 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1717329602.68581 0
-  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1717329601.66464 3397 87058314539cfb213ec7127c1fdbcf0f ""
+["pdflatex"] 1717332182.5446 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1717332183.04809 0
+  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1717332181.32282 5524 5b316654b98b8d9e25f25c5532f54707 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1716849630 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -21,10 +22,12 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1716849630 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1716849630 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1716849630 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1716849630 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1716849630 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1716849630 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1716849630 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1716849630 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1716849630 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1716849630 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1716849630 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1716849630 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -77,11 +80,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716888649.38015 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716888614 7112993 932e0732900f584fecfea1f12e19b289 ""
-  "Report.aux" 1717329602.65801 3032 e4178f6d9f9a67077bb0aa993e35ee07 "pdflatex"
-  "Report.bbl" 1717329461.86321 466 ee04f40f768daeed26442158e95aba61 "biber Report"
-  "Report.run.xml" 1717329602.66134 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
-  "Report.tex" 1717329601.66464 3397 87058314539cfb213ec7127c1fdbcf0f ""
-  "Report.toc" 1717329602.66134 1784 1efb3991993e71981ea9dc1c59f65789 "pdflatex"
+  "Report.aux" 1717332183.01622 5047 5dd16d13f77b6d3503788b3862d1c73d "pdflatex"
+  "Report.bbl" 1717332182.52953 11701 96d3007bcb728dd40612ce242a10f95b "biber Report"
+  "Report.run.xml" 1717332183.01955 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
+  "Report.tex" 1717332181.32282 5524 5b316654b98b8d9e25f25c5532f54707 ""
+  "Report.toc" 1717332183.01955 2168 e688b6f8a6f18abc256e65e25ba8375e "pdflatex"
   (generated)
   "Report.aux"
   "Report.bcf"
