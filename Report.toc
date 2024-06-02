@@ -1,15 +1,6 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Sprint}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Ice breaker}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Expert interview and HMW\blx@tocontentsinit {0}\cite {WhatHowMight} questions}{4}{}%
-\contentsline {subsection}{\numberline {2.3}Longterm goals}{4}{}%
-\contentsline {subsection}{\numberline {2.4}Sprint questions}{5}{}%
-\contentsline {subsection}{\numberline {2.5}Map and area of focus}{5}{}%
-\contentsline {subsection}{\numberline {2.6}concept sketch}{5}{}%
-\contentsline {subsection}{\numberline {2.7}Storyboard}{7}{}%
-\contentsline {section}{\numberline {3}Reflection}{7}{}%
-\contentsline {subsection}{\numberline {3.1}Did you find answers to the sprint questions?}{7}{}%
-\contentsline {subsection}{\numberline {3.2}Could you have done anything differently?}{7}{}%
-\contentsline {subsection}{\numberline {3.3}What were you particularly satisfied with?}{7}{}%
-\contentsline {subsection}{\numberline {3.4}What would you do differently if you were to conduct a similar sprint again?}{8}{}%
-\contentsline {subsection}{\numberline {3.5}Notes}{8}{}%
+\contentsline {section}{\numberline {1}Sprint Goal}{2}{}%
+\contentsline {section}{\numberline {2}Backlog}{2}{}%
+\contentsline {section}{\numberline {3}Time}{2}{}%
+\contentsline {section}{\numberline {4}Reflection}{2}{}%
+\contentsline {subsection}{\numberline {4.1}Could you have done anything differently?}{3}{}%
+\contentsline {subsection}{\numberline {4.2}What were you particularly satisfied with?}{3}{}%
