@@ -19,41 +19,104 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{DesignSprint2024}{article}{}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+    \entry{AgileSoftwareDevelopment2024}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
-      \field{abstract}{A design sprint is a time-constrained, five-phase process that uses design thinking with the aim of reducing the risk when bringing a new product, service or a feature to the market. The process aims to help teams to clearly define goals, validate assumptions and decide on a product roadmap before starting development. It seeks to address strategic issues using interdisciplinary expertise, rapid prototyping, and usability testing. This design process is similar to Sprints in an Agile development cycle.}
-      \field{annotation}{Page Version ID: 1216839169}
+      \field{abstract}{Agile software development is the mindset for developing software that derives from values agreed upon by The Agile Alliance, a group of 17 software practitioners in 2001. As documented in their Manifesto for Agile Software Development the practitioners value: Individuals and interactions over processes and tools Working software over comprehensive documentation Customer collaboration over contract negotiation Responding to change over following a plan The practitioners cite inspiration from new practices at the time including extreme programming, scrum, dynamic systems development method, adaptive software development and being sympathetic to the need for an alternative to documentation driven, heavyweight software development processes. Many software development practices emerged from the agile mindset. These agile-based practices, sometimes called Agile (with a capital A) include requirements, discovery and solutions improvement through the collaborative effort of self-organizing and cross-functional teams with their customer(s)/end user(s). While there is much anecdotal evidence that the agile mindset and agile-based practices improve the software development process, the empirical evidence is limited and less than conclusive.}
+      \field{annotation}{Page Version ID: 1222507673}
       \field{journaltitle}{Wikipedia}
       \field{langid}{english}
-      \field{month}{4}
-      \field{title}{Design Sprint}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
+      \field{month}{5}
+      \field{title}{Agile Software Development}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
       \field{urlyear}{2024}
       \field{year}{2024}
       \field{urldateera}{ce}
       \verb{file}
-      \verb /home/joar/Zotero/storage/RM6KLG4S/Design_sprint.html
+      \verb /home/joar/Zotero/storage/877IV4HP/Agile_software_development.html
       \endverb
     \endentry
-    \entry{WhatHowMight}{misc}{}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{How Might We is a design thinking method where designers create questions that open up ideation sessions to generate a broad number of solutions.}
-      \field{howpublished}{https://www.interaction-design.org/literature/topics/how-might-we}
-      \field{journaltitle}{The Interaction Design Foundation}
-      \field{langid}{english}
-      \field{shorttitle}{What Is {{How Might We}} ({{HMW}})?}
-      \field{title}{What Is {{How Might We}} ({{HMW}})? --- Updated 2024}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
+    \entry{ManifestoAgileSoftware}{misc}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://agilemanifesto.org/}
+      \field{title}{Manifesto for {{Agile Software Development}}}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
       \field{urlyear}{2024}
       \field{urldateera}{ce}
       \verb{file}
-      \verb /home/joar/Zotero/storage/X88DF8UK/how-might-we.html
+      \verb /home/joar/Zotero/storage/Z78NIIEU/agilemanifesto.org.html
+      \endverb
+    \endentry
+    \entry{Scrum2023}{article}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Innen prosjektledelse er scrum et rammeverk for {å} utvikle, levere og opprettholde produkter i et komplekst milj{ø}. Scrum har sin bakgrunn fra programvareutvikling, men har ogs{å} blitt brukt i andre felt inkludert forskning, salg, markedsf{ø}ring og h{ø}yteknologi. Metodikken er designet for team med 3 til 10 medlemmer, og bryter ned arbeidet i m{å}l (sprintk{ø}er) som skal fullf{ø}res innen tidsbokser kalt sprinter. Sprintene har som regel varighet ikke lengre enn en m{å}ned og oftest to uker. Scrumteamet vurderer fremgangen i daglige m{ø}ter p{å} 15 minutter eller mindre kalt daglige scrums (en form for st{å}m{ø}te). P{å} slutten av sprinten har teamet har ytterligere to m{ø}ter, henholdsvis sprintgjennomgang hvor man viser utf{ø}rt arbeid for interessenten for {å} f{å} tilbakemeldinger, og sprintevaluering hvor teamet kan reflektere og forbedre seg.}
+      \field{annotation}{Page Version ID: 24092351}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{norwegianbokmal}
+      \field{month}{12}
+      \field{title}{{Scrum}}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/BHYMSMZN/Scrum.html
+      \endverb
+    \endentry
+    \entry{scrumwiseScrumToolsScrum}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e0bdb8132254522c24dfaa7c3715f57e}{%
+           family={Scrumwise},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{fullhash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{bibnamehash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{authorbibnamehash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{authornamehash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \strng{authorfullhash}{e0bdb8132254522c24dfaa7c3715f57e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The easiest Scrum tool you'll find. Scrumwise lets you focus on your Scrum project, instead of getting lost in a complex tool.}
+      \field{howpublished}{https://www.scrumwise.com}
+      \field{journaltitle}{Scrumwise}
+      \field{langid}{english}
+      \field{title}{Scrum {{Tools}} / {{Scrum Software}}}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/JLXH7EMX/www.scrumwise.com.html
+      \endverb
+    \endentry
+    \entry{Timeboxing2024}{article}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In agile principles, timeboxing allocates a maximum unit of time to an activity, called a timebox, within which a planned activity takes place. It is used by agile principles-based project management approaches and for personal time management.}
+      \field{annotation}{Page Version ID: 1216839149}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Timeboxing}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/DC2RTGGA/Timeboxing.html
       \endverb
     \endentry
   \enddatalist

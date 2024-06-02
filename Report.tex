@@ -14,6 +14,7 @@
     \and
     Hassan Ali Bokhari
 }
+
 \documentclass[12pt]{article}
 % include enumitem
 \usepackage{enumitem}
@@ -32,7 +33,7 @@
 
 \addbibresource{Library.bib}
 
-\title{\textbf{Group Venus} \\ 2nd Delivery: Design Sprint}
+\title{\textbf{Group Venus} \\ 2nd Delivery: Development Sprint}
 \date{\today}
 
 \graphicspath{ {./images/} }
@@ -43,133 +44,135 @@
 
 \maketitle
 
+\pagebreak
+
 \tableofcontents
 
+
+
 \section{Introduction}
-The following report aims to document this groups experience with the desing sprint\cite{DesignSprint2024}.
-This report aims to anwser the following questions:
-\begin{itemize}
-    \item Did you find answers to the sprint questions?
-    \item Could you have done anything differently?
-    \item What were you particularly satisfied with?
-    \item What would you do differently if you were to conduct a similar sprint again?
-\end{itemize}
+This report aims to document our groups experiences with the groups first design sprint.
+We will be covering the following topics:
 
-\section{Sprint}
-This section aims to document and explain each step in the sprint
+\section{Technical background}
+This section aims to describe the following terms:
+\subsection{Agile development\cite{AgileSoftwareDevelopment2024}}
+Agile software development is software that is developed according to the ideas and values presented in the 
+Manifesto for Agile Software Development\cite{ManifestoAgileSoftware}.
+The manifesto presents the following core ideas:
+\begin{itemize}
+    \item Individuals and interactions over processes and tools
+    \item Working software over comprehensive documentation
+    \item Customer collaboration over contract negotiation
+    \item Responding to change over following a plan
+\end{itemize}
+The manifesto is based on ideas created by the Agile Alliance in 2001, 
+this is a group of 17 software developers.
+\subsubsection{Scrum\cite{Scrum2023}}
+Scrum is a type of agile methodology. The methodology was created in 1986 and widely popuralized 
+after the manifesto for agile software development was published.
+\subsubsection{Scrumwise\cite{scrumwiseScrumToolsScrum}}
+Scrumwise is a service for managing a scrumboard. Scrumwise claims it is "The easiest Scrum tool you'll find", 
+while this has not been substansiated in any meaningfull way the tool is used by many.
+\subsubsection{Scrum master}
+The leader of a scrum project is often refered to as the scrum master.
+It is the scrum masters task to remove obstacles and streamline the teams development processes.
+\subsection{Development sprint\cite{Timeboxing2024}}
+A development sprint, also known as a Timebox is the process of allocating a time constraint to
+reach a goal. These time constraints usually consists of a week to a month of time.
+Timeboxes are great for mitigating risk as per Parkinson's law\cite{ParkinsonLaw2024}
+\subsection{Backlog\cite{Backlog2022}}
+A backlog usually refers to an accumulation of unfinished work.
+\subsection{React\cite{React}}
+React is JS\cite{ECMA262} framework for component based development of websites.
+\subsubsection{Component based development\cite*{ComponentbasedSoftwareEngineering2024}}
+Component based development also known as Component based software engineering is a method of software development
+that aims for components of software to be loosely coupled and reusable. Component based development is an 
+essential part of any agile workflow.
+\subsection{Vite\cite{Vite}}
+Vite is a local development server aimed at developing web applications.
 
-\subsection{Ice breaker}
-We were asked to present ourself visually, see \textit{Figure \ref{fig:IB}}.
-This included anwsering the following questions:
+\section{Sprint Goal}
+We had the goal of making a functional application, with navigational options, that we could use as 
+a base for the next sprint by the end of this week. \break
+$\-$ The result of this week was a functional app, where you can navigate several pages. 
+It is not the best looking, but is a good base to continue our work with. It has low cost and 
+
+\section{Backlog}
+This is the current backlog for thie project.
 \begin{itemize}
-    \item Name
-    \item Your icebreaker
-    \item Internal forecast
-    \item Favourite icecream
-    \item Earlier relevant experience
+    \item Text input component is a work in progress.
+    \item Login modal missing integration with project.
+    \item Hypothetical reports on what can go wrong and access control solutions.
+    \item React routing.
+    \item Create Image slideshow component.
 \end{itemize}
-\begin{figure}[h]
-    \begin{adjustwidth}{-1in}{-1in}
-        \centering
-        \includegraphics[scale=1]{icebreaker.png}
-        \caption{A visual presentation of a team member}
-        \label{fig:IB}
-    \end{adjustwidth}
-\end{figure}
-\clearpage
-\subsection{Expert interview and HMW\cite{WhatHowMight} questions}
-The expert interviews allows us to learn about the background and context of a potential solution.
-The goal of this exercise is to create \textbf{How Might We} questions.
-The following is a selection of some of our most popular questions:
-\begin{itemize}
-    \item How might we present information in an effective and engaging way
-    \item How might we make information easily editable
-    \item How might we create a unique application
-\end{itemize}
-\subsection{Longterm goals}
-We were tasked with writing long term goals, on what the state of the application would be in two years, see \textit{Figure \ref{fig:LO}}.
-The following are some of our most popular long term goals. 
-\begin{itemize}
-    \item In two years our application will be an important tool used by lots of buisnesses.
-    \item In two years our application will be the standard for imformative displays
-    \item In two years our application will be bug free
-\end{itemize}
-\begin{figure}[h]
-    \begin{adjustwidth}{-1in}{-1in}
-        \centering
-        \includegraphics[scale=0.3]{longterm.png}
-        \caption{A set of longterm goals}
-        \label{fig:LO}
-    \end{adjustwidth}
-\end{figure}
-\clearpage
-\subsection{Sprint questions}
-Sprint questions are a set of assumptions about our application presented as questions.
-The goal is to reflect on what we have to do to make this application a success.
-The following are some of our most popular sprint questions:
-\begin{itemize}
-    \item Can we make an application that works with as many types of information displays as possible?
-    \item Can we make an application where information can be modified quickly and easily?
-    \item Can we make an application that is accessible for all?
-\end{itemize}
-\subsection{Map and area of focus}
-We were tasked with finding out what problems are most pressing for achieving our goals.
-This was done by creating a map of our \textbf{How Might We}\cite{WhatHowMight} questions.
-\subsection{concept sketch}
-Concept sketches were created based on the sprint questions from earlier tasks.
-See \textit{Figure \ref{fig:SH}} for an example of one of the more popular concept sketches.
-\begin{figure}[h]
-    \begin{adjustwidth}{-1in}{-1in}
-        \centering
-        \includegraphics[scale=0.5]{show-it.png}
-        \caption{An example of a concept sketch}
-        \label{fig:SH}
-    \end{adjustwidth}
-\end{figure}
-\clearpage
-% \subsection{lightning criticism}
-% lorem ipsum
-% \subsection{User test flow}
-% lorem ipsum
-% \subsubsection{Individual worksheets}
-% lorem ipsum
-% \subsubsection{Voting}
-% lorem ipsum
-\subsection{Storyboard}
-Creating a Storyboard\cite{Storyboard2024} was the last task of the sprint.
-A Storyboard is visual representation of how the user moves trough the application.
-The Storyboard is used as a base for the actual design created in Penpot\cite{PenpotDesignTool}
+We also had a password strenght checker planned as an optional task if we had the time.
+% Insert picture of the list from scrumwise
+
+\section{Time}
+\subsection{Participation}
+This is information grabbed from the "Time used in this sprint" page on scrumwise.
+\subsubsection{Joar Heimonen}
+[Insert text here]
+    \begin{itemize}
+        \item Created a ReadMe file for GitHub
+        \item Selected an open source license
+        \item Created a basic layout using either css-grid or flexboxes
+        \item Created different layout components
+        \item Added example pages
+        \item Refactored Navigation bar
+        \item Created a slideshow component
+    \end{itemize}
+\subsubsection{Iselin Skorpen}
+Iselin made the Logo and created a mockup of the design and layout of the home page. This was to get a feel for how the website was 
+going to look and function for future creation. The start of the Navigation bar was made by Iselin. This report was also written by 
+Iselin as well as Joar.
+    \begin{itemize}
+        \item Created a logo.
+        \item Created a mockup of the home page.
+        \item Created a mockup of the navigation bar.
+        \item Created the Navigation bar.
+    \end{itemize}
+\subsubsection{Salim Said}
+Salin partially a Text input component and a login modal. This needs integration into the application to function with everything 
+else. He also wrote a document that "defines security practices and standards that will guide the development process". 
+This doucment is found %link to where?
+    \begin{itemize}
+        \item Created a text input component.
+        \item Created a Login modal.
+        \item Wrote a documentation about security practices and standards for the development process.
+    \end{itemize}
+\subsubsection{Mostafa Mohammadi}
+\subsubsection{Ibrar Hussain}
+\subsubsection{Hassan Ali Bokhari}
+
+\subsection{Time list}
+
+Here is a picture of our Time list, in addition to this as this we spent about 8 hours in various meetings within the group.
+% insert picture of time list
+% insert picture of burndwn graph
 
 \section{Reflection}
 This section will anwser the following questions:
 \begin{itemize}
-    \item Did you find answers to the sprint questions?
     \item Could you have done anything differently?
     \item What were you particularly satisfied with?
-    \item What would you do differently if you were to conduct a similar sprint again?
 \end{itemize}
 
-\subsection{Did you find answers to the sprint questions?}
-During the sprint we had a persistant problem of team members producing similar anwsers to many of the tasks.
-While this might seem positive at first the group felt that this stagnated the storyboard proccess.
-
 \subsection{Could you have done anything differently?}
-If we were more aware of the tasks and their requirements ahead of time we could have spent more time
-concentrating on the application instead of trying to understand the tasks. 
+Improving our team communication and collabaration could have improved our workflow a lot. Ensuring that everyone was on the 
+same page when starting production of our application. We should've had a more refined sketch done beforehand to improve 
+clarity and end goal.
 
 \subsection{What were you particularly satisfied with?}
-We are especially satisfied with some of the concepts that were drawn, even though they omitted certain elements.
-Lots of the sketches had the same pervasive ideas, on how the basic layout of application. 
+We achieved our goal of developing a functional application, which will serve as a foundation for the next week's sprint. 
+This weeks work provides us with a solid, low cost base which we can utilize to its fullest to continue our development.
 
+\section{Notes}
 
-\subsection{What would you do differently if you were to conduct a similar sprint again?}
-A majority of the group felt that the sprint was a bit to rigid in the timing of the activities.
-We felt that there was a bit too much stuff happening. This resulted in us forgetting
-basic considerations in our design proccess. All in all it was a positive experience
-but if we were to do it again we would taylor it to our groups needs.
+\section{Conclusion}
 
-\subsection{Notes}
-The group decided to use Penpot\cite{PenpotDesignTool} instead of Figma\cite{FigmaCollaborativeInterface} since Penpot more or less has feature parity with Figma, 
-and Penpot is free and open-source software. We strongly believe that the design and development of applications should be free from external commercial pressures.
 \printbibliography
+
 \end{document}
