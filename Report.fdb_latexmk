@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Report"] 1717337225.74211 "Report.bcf" "Report.bbl" "Report" 1717337316.13035 0
+["biber Report"] 1717337225.74211 "Report.bcf" "Report.bbl" "Report" 1717337372.86642 0
   "Library.bib" 1717337204.6413 13846 58deadb5657dc289adf7b27eafab7639 ""
-  "Report.bcf" 1717337316.09873 108706 bc2e3e2a00d4170909c86ae42cbdd036 "pdflatex"
+  "Report.bcf" 1717337372.83748 108706 bc2e3e2a00d4170909c86ae42cbdd036 "pdflatex"
   (generated)
   "Report.bbl"
   "Report.blg"
   (rewritten before read)
-["pdflatex"] 1717337315.62052 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1717337316.13055 0
-  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1717337315.30537 9058 ee858e9d9bb62c3c8f81663c1969055c ""
+["pdflatex"] 1717337372.37106 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1717337372.86659 0
+  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1717337372.14746 9058 ea6826eab11fd167d9e92ee1e684d0c6 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1716849630 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -81,11 +81,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716888649.38015 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716888614 7112993 932e0732900f584fecfea1f12e19b289 ""
-  "Report.aux" 1717337316.09873 6462 ca8365c757d955df30d2d21552f35319 "pdflatex"
+  "Report.aux" 1717337372.83748 6462 ca8365c757d955df30d2d21552f35319 "pdflatex"
   "Report.bbl" 1717337226.12876 14828 e4a6c041d6b50c84677e057572b4cf14 "biber Report"
-  "Report.run.xml" 1717337316.10207 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
-  "Report.tex" 1717337315.30537 9058 ee858e9d9bb62c3c8f81663c1969055c ""
-  "Report.toc" 1717337316.10207 2403 9d26263cf035f50e3fc502bc8c354a83 "pdflatex"
+  "Report.run.xml" 1717337372.84082 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
+  "Report.tex" 1717337372.14746 9058 ea6826eab11fd167d9e92ee1e684d0c6 ""
+  "Report.toc" 1717337372.84082 2403 9d26263cf035f50e3fc502bc8c354a83 "pdflatex"
   "images/backlog.png" 1717336353.28332 85031 f553d95428d0a76015f1a605031a0eb9 ""
   "images/burndown.png" 1717336870.53897 40786 c60efba87b5867f7d86d7a264bc71c9c ""
   "images/timelist.png" 1717336695.03918 118496 957af697cdc0bb49d7f975088ce5dd97 ""
