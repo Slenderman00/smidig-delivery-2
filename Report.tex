@@ -33,7 +33,7 @@
 
 \addbibresource{Library.bib}
 
-\title{\textbf{Group Venus} \\ 2nd Delivery: Development Sprint}
+\title{\textbf{Group Venus} \\ 4th Delivery: Development Sprint}
 \date{\today}
 
 \graphicspath{ {./images/} }
@@ -51,8 +51,8 @@
 
 
 \section{Introduction}
-This report aims to document our groups experiences with the groups first design sprint.
-We will be covering the following topics:
+This report aims to document our groups experiences with the groups second design sprint.
+We will be covering the topics mentioned above.
 
 \section{Technical background}
 This section aims to describe the following terms:
@@ -98,22 +98,46 @@ This project heavily relies on pull requests as this allows the scrum master to 
 A burndown graph is a graph that visualizes the remaining tasks in a backlog over time.
 This graph is used as a simple status idicator during development sprints.
 see \textit{Figure \ref{fig:BD}} for an illustration of a burndown graph.
+\subsection{Large Language Models\cite{aiMixtralExperts2023}}
+A large language model also known as an LLM is a machine learning model trained on predicting the next word in a series of words.
+There are many different LLMs (ChatGTP, Mixtral 7x8b, LLAMA...)
+\subsection{Mermaid\cite{MermaidDiagrammingCharting}}
+The mermaid desing tool is a diagram and charting tool that was integrated into github in 2022, see \textit{Figure \ref{fig:MM}}.
+\begin{figure}[h]
+    \begin{verbatim}
+    ```mermaid
+    graph TD
+    A[User] -- Login information --> B{Is Login information valid?}
+    B -- Username --> C((DATABASE))
+    C -- Hash + Salt --> B
+    B -- Valid --> D[JWT-generator]
+    B -- Invalid: 500 --> A
+    D -- Fetch JWT key --> E(secret_key.txt)
+    E -- Key --> D
+    D -- Valid JWT --> A
+    ```
+    \end{verbatim}
+    \caption{An example of a mermaid diagram}
+    \label{fig:MM}
+\end{figure}
 
 \section{Sprint Goal}
-We had the goal of making a functional application, with navigational options, that we could use as 
-a base for the next sprint by the end of this week. \break
-$\-$ The result of this week was a functional app, where you can navigate several pages. 
-Certain design elements have not been implemented, but is a good base to continue our work with.
+The original sprint goal was to start on backend services for the application. This was changed before the sprint started and we decided on using the sprint
+to finish off features from the last sprint and document features for the next sprint.
 
 \section{Backlog}
 This is the current backlog for the project, see \textit{Figure \ref{fig:BL} and \ref{fig:BL2}}.
 \begin{figure}[h]
     \begin{itemize}
-        \item Text input component is a work in progress.
-        \item Login modal missing integration with project.
-        \item Hypothetical reports on what can go wrong and access control solutions.
-        \item React routing.
-        \item Create Image slideshow component.
+        \item Create "Overview" page
+        \item Create "Create new" page
+        \item Market analysis
+        \item Contribution guidelines
+        \item Create a text input components for use by other components
+        \item Make the grid re-arrange when there is not enough space left
+        \item Setup react router
+        \item Create a Login/user page
+        \item Password strength checker
     \end{itemize}
     \caption{Our backlog}
     \label{fig:BL}
@@ -132,46 +156,45 @@ This is the current backlog for the project, see \textit{Figure \ref{fig:BL} and
 \subsection{Participation}
 This is information taken from the "Time used in this sprint" page on scrumwise.
 \subsubsection{Joar Heimonen}
-Joar Heimonen is the scrum master of this project.\\
-Heimonen implemented the following:
+Joar Heimonen is the scrum master of this project. Heimonen implemented a document outlinining the architecture related to access control:
+\url{https://github.com/Slenderman00/show-it/blob/main/docs/access-control.md}
+Heimonen also implemented the following:
     \begin{itemize}
-        \item Created a Readme file for GitHub
-        \item Selected an open source license
-        \item Created a basic layout using either css-grid or flexboxes
-        \item Created different layout components
-        \item Added example pages
-        \item Refactored Navigation bar
-        \item Created a slideshow component
+        \item Add logo.
+        \item Create a Readme file for the github.
+        \item Create image slideshow component.
+        \item A report detailing access control solutions for the project. \cite{ShowitDocsAccesscontrol}
+        \item Create a github action that automatically compiles and deploys the page.
+        \item Navbar - The navbar should show what page the user has selected.
+        \item Create "Create new" page.
+        \item Create "overview" page.
+        \item Style navbar.
     \end{itemize}
+It is worth mentioning that Heimonen was abscent two days during this sprint due to surgery.
+This does not seem to have caused any notable obstructions for the team.
+
 \subsubsection{Iselin Skorpen}
-Iselin made the Logo and created a mockup of the design and layout of the home page. This was to get a feel for how the website was 
-going to look and function for future creation. The Navigation bar was made by Iselin. This report was also written by 
-Iselin as well as Joar.
+Iseling skorpen finished up and formalized the design of the application this sprint. This resulted in the following document:
+\url{https://github.com/Slenderman00/show-it/blob/main/docs/visual-design.md}
     \begin{itemize}
-        \item Created a logo.
-        \item Created a mockup of the home page.
-        \item Created a mockup of the navigation bar.
-        \item Created the Navigation bar.
+        \item Design and mock up "overview" page.
+        \item Design and mock up "Create new" page.
+        \item Document showing and describing design mockups. \cite{ShowitDocsVisualdesign}
+        \item Put together a homepage
     \end{itemize}
 \subsubsection{Salim Said}
-Salim started implementing a Text input component and a login modal. This needs integration into the application to function with everything 
-else. Said also wrote a document that "defines security practices and standards that will guide the development process"\cite*{ShowitDocsSecurity}. 
-This document has yet to be accepted into the main branch of the repository.
-    \begin{itemize}
-        \item Created a text input component.
-        \item Created a Login modal.
-        \item Wrote a documentation about security practices and standards for the development process.
-    \end{itemize}
+Salim Said did not contribute.
 \subsubsection{Mostafa Mohammadi}
-Mostafa Mohammadi did not show.
+Mostafa Mohammadi did not contribute.
 \subsubsection{Ibrar Hussain}
-Ibrar Hussain did not show.
+Ibrar Hussain did not contribute.
 \subsubsection{Hassan Ali Bokhari}
-Hassan Ali Bokhari created a fork of the project, and did not show for the main duration of the sprint.
+Hassan Ali Bokhari did not contribute.
 
 \subsection{Time list}
 
-For a picture of our time list see \textit{Figure \ref{fig:TL}}, in addition to the time list we spent about 8 hours in various meetings within the group.
+For a picture of our time list see \textit{Figure \ref{fig:TL}}. During this sprint we only had a meeting that lasted an hour, this consisted mainly of sprint planning and a sprint retrospective.
+Due to the large ammount of time spent in meetings during the last sprint the team had a cohesive idea of what had to be done.
 \begin{figure}[h]
     \begin{adjustwidth}{-1in}{-1in}
         \centering
@@ -183,7 +206,7 @@ For a picture of our time list see \textit{Figure \ref{fig:TL}}, in addition to 
 \clearpage
 % insert picture of burndwn graph
 \subsection{Burndown graph}
-The burndown graph flattened out due to group members adding new tasks to the sprint as we progressed this can be seen in
+During our first sprint our burndown graph flattened out due to the scope of the sprint growing. This time we tried to avoid adding tasks to the sprint, this resulted in the following burndown graph as seen in
 \textit{Figure \ref{fig:BD}}.
 \begin{figure}[h]
     \begin{adjustwidth}{-1in}{-1in}
@@ -195,6 +218,19 @@ The burndown graph flattened out due to group members adding new tasks to the sp
 \end{figure}
 \clearpage
 
+\section{Usage of Large Language Models}
+During this sprint, different LLMs have been used, one of the more utilized LLMs is the mixtral 7x8b model created by Mistral AI 
+\cite{aiMixtralExperts2023}. For inference on this model, we have been using a tool known as 
+\textbf{Ask-Surf} \cite{heimonenSlenderman00AskSurf2024}. Ask-surf allows users to interact with an LLM 
+like any other Unix application, thus allowing for syntax like this: \begin{verbatim} "dig https://joar.me | surf explain this data to me" \end{verbatim}
+and this:
+\begin{verbatim} "component.jsx > surf why does this component not render" \end{verbatim}
+Our software is open-source, but when developing proprietary software, it is especially important to consider what kind of third-party services you are exposing your clients' intellectual property to.
+\\
+\\
+One of Surfs main use cases has been to suggest topics for different reports and tasks for the team, as the majority of the team
+are cybersecurty students.
+
 \section{Reflection}
 This section will anwser the following questions:
 \begin{itemize}
@@ -203,18 +239,27 @@ This section will anwser the following questions:
 \end{itemize}
 
 \subsection{Could you have done anything differently?}
-Improving our team communication and collabaration could have improved our workflow a lot. Ensuring that everyone was on the 
-same page when starting production of our application. We should've had a more refined sketch done beforehand to improve 
-clarity and end goal.
+We have been extremely relaxed when it comes to group memebers not showing up and not participating, while 
+we do not quite know how to deal with this it is aboslutely something that should have been dealt with differently.
+As the results have been disappointing.
 
 \subsection{What were you particularly satisfied with?}
-We achieved our goal of developing a functional application, which will serve as a foundation for the next week's sprint. 
-This weeks work provides us with a solid, low cost base which we can utilize to its fullest to continue our development.
+While we did not manage to achieve our goals we spent a lot of time thinking of more theoretical and practical aspects of our application.
+This resulted in some beautiful designs by Iselin Skorpen \url{https://github.com/Slenderman00/show-it/blob/main/docs/visual-design.md}.
+We are also especially satisfied with the access control document (\url{https://github.com/Slenderman00/show-it/blob/main/docs/access-control.md})
+as it features lots of beautiful graphs created using \textbf{Mermaid}\cite{MermaidDiagrammingCharting}
 
-\section{Notes}
-It is worth noting that group participation has been lower than we expected.
-Our stack was escpecially selected to allow for component based development but this was not neccesary
-as the volume of Pull Requests were much lower than anticipated.
+
+\section{Heimonens Notes}
+Group participation during this sprint has been even lower than the last sprint. Certain group members
+have been offering to help but when given the opportunity they have gone offline. We tried giving the more inactive group memebers
+free reigns during this sprint but this had little to no effect. We currently find ourself at a loss, there does not seem to be any way
+of inspiring these group members to contribute, even with no restrictions on contributions they are still abscent.
+\\
+\\
+Due to low group participation we have taken the unilateral decision to shift the focus of our last 
+sprint to finishing creating a working prototype of the frontend of the application. The offer still stands for
+group members to contribute with whatever they want as long as it is not directly harmfull to the health of the codebase.
 
 \pagebreak
 \printbibliography
