@@ -33,7 +33,7 @@
 
 \addbibresource{Library.bib}
 
-\title{\textbf{Group Venus} \\ 4th Delivery: Development Sprint}
+\title{\textbf{Group Venus} \\ Project outcome and process report}
 \date{\today}
 
 \graphicspath{ {./images/} }
@@ -51,9 +51,7 @@
 
 
 \section{Introduction}
-This report aims to document our groups experiences with the groups second design sprint.
-We will be covering the topics mentioned above.
-
+This report aims to document the outcome of this project and the processes used to achieve this outcome.
 \section{Technical background}
 This section aims to describe the following terms:
 \subsection{Agile development\cite{AgileSoftwareDevelopment2024}}
@@ -91,7 +89,10 @@ that aims for components of software to be loosely coupled and reusable. Compone
 essential part of any agile workflow.
 \subsection{Vite\cite{Vite}}
 Vite is a local development server aimed at developing web applications.
-\subsection{Pull Request\cite{PullRequests}}
+\subsubsection*{Git\cite*{Git}}
+Git is a free and open source version control system designed by Linus Torvalds in 2005. Torvalds
+created Git since he assesed that there were no existing version control tools fitting the size and activity found in Linux kernel development.
+\subsubsection{Pull Request\cite{PullRequests}}
 A Pull Request is a proposal to merge one branch with another, usually from different forks of the same repository.
 This project heavily relies on pull requests as this allows the scrum master to maintain the intergrity of the project.
 \subsection{Burndown graph\cite{BurndownChart2024}}
@@ -121,145 +122,55 @@ The mermaid desing tool is a diagram and charting tool that was integrated into 
     \label{fig:MM}
 \end{figure}
 
-\section{Sprint Goal}
-The original sprint goal was to start on backend services for the application. This was changed before the sprint started and we decided on using the sprint
-to finish off features from the last sprint and document features for the next sprint.
+\section{Project outcome}
+During this project our group has participated in two development sprints and one design sprint.
+\subsection{Desing sprint}
+During the design print we managed to develop the basic outline for the application, it was also during this
+design sprint that we came up with the show-it logo and name. During this sprint we faced one of the issues that would 
+percist troughout the rest of development, this was low group participation.
+We ended up in a situatuion were a minority of group members were overworked while the rest were abscent.
+The desing sprint ended up beeing a tiring afair for the remaining group members as the sprint in total lasted for around 16 hours.
 
-\section{Backlog}
-This is the current backlog for the project, see \textit{Figure \ref{fig:BL} and \ref{fig:BL2}}.
-\begin{figure}[h]
-    \begin{itemize}
-        \item Create "Overview" page
-        \item Create "Create new" page
-        \item Market analysis
-        \item Contribution guidelines
-        \item Create a text input components for use by other components
-        \item Make the grid re-arrange when there is not enough space left
-        \item Setup react router
-        \item Create a Login/user page
-        \item Password strength checker
-    \end{itemize}
-    \caption{Our backlog}
-    \label{fig:BL}
-\end{figure}
-\begin{figure}[h]
-    \begin{adjustwidth}{-1in}{-1in}
-        \centering
-        \includegraphics[scale=0.5]{backlog.png}
-        \caption{An image of a scrumwise backlog}
-        \label{fig:BL2}
-    \end{adjustwidth}
-\end{figure}
-\clearpage
+\subsection{Development sprints}
 
-\section{Time}
-\subsection{Participation}
-This is information taken from the "Time used in this sprint" page on scrumwise.
-\subsubsection{Joar Heimonen}
-Joar Heimonen is the scrum master of this project. Heimonen implemented a document outlinining the architecture related to access control:
-\url{https://github.com/Slenderman00/show-it/blob/main/docs/access-control.md}
-Heimonen also implemented the following:
-    \begin{itemize}
-        \item Add logo.
-        \item Create a Readme file for the github.
-        \item Create image slideshow component.
-        \item A report detailing access control solutions for the project. \cite{ShowitDocsAccesscontrol}
-        \item Create a github action that automatically compiles and deploys the page.
-        \item Navbar - The navbar should show what page the user has selected.
-        \item Create "Create new" page.
-        \item Create "overview" page.
-        \item Style navbar.
-    \end{itemize}
-It is worth mentioning that Heimonen was abscent two days during this sprint due to surgery.
-This does not seem to have caused any notable obstructions for the team.
+\subsubsection{Sprint 1}
+The goal with our first development sprint was to develop a functioning outline of the application. We started the sprint by organizing a sprint
+planning meeting. The sprint consisted of multiple story items needed to create the basic outline of an application that were derived during the sprint organizing meeting.
+Due to the fact that most of the groups members had not worked with either Git or React progess was slow. After a couple of days some of the
+team members managed to get quite good at Git usage and the project quickly picked up steam. Another issue during this first sprint
+was the lack of fitting story items during the start of the sprint, this resulted in more story items being added to the backlog during the sprint.
+As a result of this the burndown graph flattened out and stagnated.
+Even though we did not quite meet our sprint goal we were still content with the work we managed to get done.
 
-\subsubsection{Iselin Skorpen}
-Iseling skorpen finished up and formalized the design of the application this sprint. This resulted in the following document:
-\url{https://github.com/Slenderman00/show-it/blob/main/docs/visual-design.md}
-    \begin{itemize}
-        \item Design and mock up "overview" page.
-        \item Design and mock up "Create new" page.
-        \item Document showing and describing design mockups. \cite{ShowitDocsVisualdesign}
-        \item Put together a homepage
-    \end{itemize}
-\subsubsection{Salim Said}
-Salim Said did not contribute.
-\subsubsection{Mostafa Mohammadi}
-Mostafa Mohammadi did not contribute.
-\subsubsection{Ibrar Hussain}
-Ibrar Hussain did not contribute.
-\subsubsection{Hassan Ali Bokhari}
-Hassan Ali Bokhari did not contribute.
+\subsubsection{Sprint 2}
+Due to the problems faced during the first sprint we decided on changing the goal of this sprint to producing documentation and designs for the application.
+This was a measure that would allow for the less technically enclined group members to also contribute, sadly this had little to no effect as group participation
+during this sprint was lower than the first. During this sprint we also managed to get basic navigation working on the application, a considerable time
+was spent ensuring that this was done in a way that did not introduce any technical debt.
 
-\subsection{Time list}
+\subsection{Testing}
+Due to the lack of resources experienced by this group testing had to be omitted.
 
-For a picture of our time list see \textit{Figure \ref{fig:TL}}. During this sprint we only had a meeting that lasted an hour, this consisted mainly of sprint planning and a sprint retrospective.
-Due to the large ammount of time spent in meetings during the last sprint the team had a cohesive idea of what had to be done.
-\begin{figure}[h]
-    \begin{adjustwidth}{-1in}{-1in}
-        \centering
-        \includegraphics[scale=0.5]{timelist.png}
-        \caption{An image of a scrumwise time list}
-        \label{fig:TL}
-    \end{adjustwidth}
-\end{figure}
-\clearpage
-% insert picture of burndwn graph
-\subsection{Burndown graph}
-During our first sprint our burndown graph flattened out due to the scope of the sprint growing. This time we tried to avoid adding tasks to the sprint, this resulted in the following burndown graph as seen in
-\textit{Figure \ref{fig:BD}}.
-\begin{figure}[h]
-    \begin{adjustwidth}{-1in}{-1in}
-        \centering
-        \includegraphics[scale=0.4]{burndown.png}
-        \caption{An image of a scrumwise burndown graph}
-        \label{fig:BD}
-    \end{adjustwidth}
-\end{figure}
-\clearpage
+\subsection{Software documentation}
+During the second sprint we were able to produce two documents detailing the project design and
+how access control should be implemented.
 
-\section{Usage of Large Language Models}
-During this sprint, different LLMs have been used, one of the more utilized LLMs is the mixtral 7x8b model created by Mistral AI 
-\cite{aiMixtralExperts2023}. For inference on this model, we have been using a tool known as 
-\textbf{Ask-Surf} \cite{heimonenSlenderman00AskSurf2024}. Ask-surf allows users to interact with an LLM 
-like any other Unix application, thus allowing for syntax like this: \begin{verbatim} "dig https://joar.me | surf explain this data to me" \end{verbatim}
-and this:
-\begin{verbatim} "component.jsx > surf why does this component not render" \end{verbatim}
-Our software is open-source, but when developing proprietary software, it is especially important to consider what kind of third-party services you are exposing your clients' intellectual property to.
-\\
-\\
-One of Surfs main use cases has been to suggest topics for different reports and tasks for the team, as the majority of the team
-are cybersecurty students.
+\section{Project process}
+\subsection{Methodology}
+The group methodology was simple. A sprint would be created with relevant story items and some wildcard story items (Create a report...).
+Certain story items were assigned to specific members, The tought was that this would ensure that everyone had atleas some managable and simple story items
+to work on. When a a story item was finished a pull request would be submitted to the scrum master of the project. The scrum master would then perform
+a code review before deciding if the pull request should be accepted or not. If a pull request was not accepted the story item would be moved from finished back to
+in progess. The team communicated trough teams and announcements were published on scrum wise. 
 
-\section{Reflection}
-This section will anwser the following questions:
-\begin{itemize}
-    \item Could you have done anything differently?
-    \item What were you particularly satisfied with?
-\end{itemize}
+\subsection{Scrum}
+To manage our storyboard the team used a tool known as Scrumwise \cite*{scrumwiseScrumToolsScrum}. Scrumwise gave all team members great insight over
+what tasks were beeing worked on, what tasks were reserved and what tasks were finished.
 
-\subsection{Could you have done anything differently?}
-We have been extremely relaxed when it comes to group memebers not showing up and not participating, while 
-we do not quite know how to deal with this it is aboslutely something that should have been dealt with differently.
-As the results have been disappointing.
+\subsection{Git\cite*{Git}}
+The group utilized Git as our version control system. Each time a new commit was added to the main branch a github action would compile and publish
+the applicaiton to github pages.
 
-\subsection{What were you particularly satisfied with?}
-While we did not manage to achieve our goals we spent a lot of time thinking of more theoretical and practical aspects of our application.
-This resulted in some beautiful designs by Iselin Skorpen \url{https://github.com/Slenderman00/show-it/blob/main/docs/visual-design.md}.
-We are also especially satisfied with the access control document (\url{https://github.com/Slenderman00/show-it/blob/main/docs/access-control.md})
-as it features lots of beautiful graphs created using \textbf{Mermaid}\cite{MermaidDiagrammingCharting}
-
-
-\section{Heimonens Notes}
-Group participation during this sprint has been even lower than the last sprint. Certain group members
-have been offering to help but when given the opportunity they have gone offline. We tried giving the more inactive group memebers
-free reigns during this sprint but this had little to no effect. We currently find ourself at a loss, there does not seem to be any way
-of inspiring these group members to contribute, even with no restrictions on contributions they are still abscent.
-\\
-\\
-Due to low group participation we have taken the unilateral decision to shift the focus of our last 
-sprint to finishing creating a working prototype of the frontend of the application. The offer still stands for
-group members to contribute with whatever they want as long as it is not directly harmfull to the health of the codebase.
 
 \pagebreak
 \printbibliography

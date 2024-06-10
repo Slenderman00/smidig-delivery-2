@@ -55,6 +55,39 @@
       \verb /home/joar/Zotero/storage/877IV4HP/Agile_software_development.html
       \endverb
     \endentry
+    \entry{aiMixtralExperts2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=88c6124836971d87dfd8464b6c01eddc}{%
+           family={AI},
+           familyi={A\bibinitperiod},
+           given={Mistral},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{88c6124836971d87dfd8464b6c01eddc}
+      \strng{fullhash}{88c6124836971d87dfd8464b6c01eddc}
+      \strng{bibnamehash}{88c6124836971d87dfd8464b6c01eddc}
+      \strng{authorbibnamehash}{88c6124836971d87dfd8464b6c01eddc}
+      \strng{authornamehash}{88c6124836971d87dfd8464b6c01eddc}
+      \strng{authorfullhash}{88c6124836971d87dfd8464b6c01eddc}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A high quality Sparse Mixture-of-Experts.}
+      \field{chapter}{news}
+      \field{howpublished}{https://mistral.ai/news/mixtral-of-experts/}
+      \field{langid}{american}
+      \field{month}{12}
+      \field{title}{Mixtral of Experts}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/Q4VABBLF/mixtral-of-experts.html
+      \endverb
+    \endentry
     \entry{Backlog2022}{article}{}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
@@ -128,6 +161,20 @@
       \verb /home/joar/Zotero/storage/JBNJSLQD/ecma-262.html
       \endverb
     \endentry
+    \entry{Git}{misc}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.git-scm.com/}
+      \field{title}{Git}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/NGMAMBXG/www.git-scm.com.html
+      \endverb
+    \endentry
     \entry{ManifestoAgileSoftware}{misc}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
@@ -140,6 +187,20 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb /home/joar/Zotero/storage/Z78NIIEU/agilemanifesto.org.html
+      \endverb
+    \endentry
+    \entry{MermaidDiagrammingCharting}{misc}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://mermaid.js.org/}
+      \field{title}{Mermaid {|} {{Diagramming}} and Charting Tool}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/3DTDTU9I/mermaid.js.org.html
       \endverb
     \endentry
     \entry{ParkinsonLaw2024}{article}{}
@@ -223,20 +284,6 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb /home/joar/Zotero/storage/JLXH7EMX/www.scrumwise.com.html
-      \endverb
-    \endentry
-    \entry{ShowitDocsSecurity}{misc}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{https://github.com/yg400/show-it/blob/patch-1/docs/Security\%20Practices\%20and\%20Standards\%20for\%20the\%20Development\%20Process}
-      \field{title}{Show-It/Docs/{{Security Practices}} and {{Standards}} for the {{Development Process}} at Patch-1 {$\cdot$} Yg400/Show-It}
-      \field{urlday}{2}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /home/joar/Zotero/storage/VQVTPJSW/Security Practices and Standards for the Development Process.html
       \endverb
     \endentry
     \entry{Timeboxing2024}{article}{}
